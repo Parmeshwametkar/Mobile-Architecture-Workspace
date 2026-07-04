@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Architecture Workspace",
+  "description": "Interactive developer studio for a premium Material Design 3 mobile app. Includes an interactive emulator, visual clean architecture mappings, API playground, database schemas, and clean production-ready code files for Flutter and Spring Boot 3.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
